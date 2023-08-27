@@ -1,0 +1,4 @@
+#define cantp_VERSION_MAJOR @cantp_VERSION_MAJOR@
+#define cantp_VERSION_MINOR @cantp_VERSION_MINOR@
+#define cantp_VERSION_PATCH @cantp_VERSION_PATCH@
+
