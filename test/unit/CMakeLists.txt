@@ -21,6 +21,7 @@ target_link_libraries(${PROJECT_NAME}_test
     gtest
     gmock
     gtest_main
+    gcov
 )
 
 add_test(NAME ${PROJECT_NAME}_test COMMAND ${PROJECT_NAME}_test)
